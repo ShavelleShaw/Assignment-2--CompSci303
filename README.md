@@ -42,6 +42,8 @@ When 0 is entered the user is asked for the name of the nonprofessional employee
 The user enters 80 hours and John (the name of the employee) and the weekly salary, payrate, health contribution and vacation days are calculated and displayed. 
 
 The rates:
+(RULE:Vacation days are calculated at 1.25% per hour and health contribution is calculated at 2.5% per dollar for nonprofessional employees and 7.5% per dollar for professional employees.)
+
 ![image](https://user-images.githubusercontent.com/114273966/196570996-771cbeaa-6e9f-4711-adf4-64a90494fa43.png)
 
  
